@@ -2,7 +2,7 @@
 A website where users can add stories, write/edit comments, and search for stories by a keyword
 # Link: http://ec2-54-164-126-240.compute-1.amazonaws.com/~mwindlinger/mod3index.php
 
-
+Use username testuser and testpassword if you want to log in, or you can create your own user
 -> Password Modifying
 
     - User can change his/her password freely by clicking the "Change Password" button on the index page.
