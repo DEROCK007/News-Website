@@ -6,12 +6,12 @@ Use username testuser and testpassword if you want to log in, or you can create 
 -> Password Modifying
 
     - User can change his/her password freely by clicking the "Change Password" button on the index page.
-    The old password will need to be surrendered for verification should the user decide to change
+    The old password will need to be typed in for verification should the user decide to change the 
     password.
 -> Password Recovery
 
-    - By clicking the "Forget Password" button on the index, user can reset his/her password without
-    signing in. Three security questions and answers were set up when the user first sign up. These
+    - By clicking the "Forget Password" button on the index, the user can reset his/her password without
+    signing in. Three security questions and answers were set up when the user first signed up. These
     security questions will need to be answered correctly to change password without signing in.
     - Like password, the security answers are also stored in the form of salted hash.
 -> Upload / Update / Delete Picture
